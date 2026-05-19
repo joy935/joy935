@@ -20,10 +20,11 @@ I'm Veihi Tupai, a Software Development student at Brigham Young University-Idah
 
 ## Projects and Work
 - [Music Playlist Manager](https://github.com/joy935/musicmanag) - Next.js web application that uses Firebase Authentication and Cloud Firestore.
-- [Handcrafted Haven](https://github.com/joy935/wdd430-teamproject/tree/main/handcraftedhaven) – Full-stack group project using TypeScript, Node.js and MongoDB. Online homemade crafts marketplace.
 - [Flashcard Mobile App](https://github.com/joy935/flashcards) - Kotlin mobile application using XML layouts, Android SDK and ContextCompat.
 - [Task Manager Mobile App](https://github.com/joy935/taskmanag) - Command-line Kotlin mobile application using CRUD operations, JSON storage and task organization features.
 - [To-do List App](https://github.com/joy935/react-todo-list/tree/main/react-todo-list) - React To-do List web application built with Vite and TypeScript.
+- [Handcrafted Haven](https://github.com/joy935/wdd430-teamproject/tree/main/handcraftedhaven) – Full-stack group project using TypeScript, Node.js and MongoDB. Online homemade crafts marketplace.
+- [Budget Planner](https://github.com/alancrisanto/BudgetPlanner) - Full-stack group project using Vite, React, Express and MongoDB.
 
 ## GitHub Statistics
 
