@@ -27,7 +27,7 @@ I'm Veihi Tupai, a Software Development student at Brigham Young University-Idah
 - [Budget Planner](https://github.com/alancrisanto/BudgetPlanner) - Full-stack group project using Vite, React, Express and MongoDB.
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats-2ug6v3sd4-veihis-projects.vercel.app/api?username=joy935&show_icons=true&theme=dracula)
+![Veihi's GitHub Stats](https://github-readme-stats-2ug6v3sd4-veihis-projects.vercel.app/api?username=joy935&show_icons=true&theme=dracula)
 
 ## Let's Connect
 Here is my [LinkedIn](https://www.linkedin.com/in/veihi-tupai/) profile
